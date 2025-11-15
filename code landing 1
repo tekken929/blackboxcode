@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>The Black Box Code – 7-Day Pilot Training Protocol</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta
+    name="description"
+    content="The Black Box Code: a 7-day pilot training protocol built for pilots who want more strength, less fatigue, and sharper performance in the cockpit."
+  />
+  <link rel="stylesheet" href="styles.css" />
+  
+</head>
+<body>
+  <main class="page">
+    <section class="card">
+      <div class="logo-wordmark">
+        THE <span>BLACK BOX</span> CODE
+      </div>
+
+      <div class="badge">
+        <span class="badge-dot"></span>
+        Built for pilots
+      </div>
+
+      <h1>The Fitness Protocol Built for <span>Pilots</span></h1>
+
+      <p class="subhead">
+        Pilots don’t need generic fitness advice. You need structure built around duty days,
+        hotel gyms, fatigue management, and irregular schedules. This is where performance starts.
+      </p>
+
+      <div class="cta-block">
+        <div class="cta-text">
+          <strong>Free 7-Day Pilot Training Protocol</strong><br />
+          A complete 7-day plan to build strength, reduce fatigue, and perform like elite crew.
+        </div>
+        <a href="#download" class="cta-button">
+          Download the 7-Day Protocol
+          <span>⬇️</span>
+        </a>
+      </div>
+
+      <section id="download" class="section">
+        <div class="section-tag">free download</div>
+        <h2>What You Get in the 7-Day Pilot Training Protocol</h2>
+        <p class="muted">Designed specifically around the demands of the cockpit, not the office.</p>
+
+        <ul>
+          <li>Strength and joint stability work that fits into hotel gyms and tight schedules.</li>
+          <li>Simple sessions that reduce fatigue during long legs.</li>
+          <li>Sleep-supportive protocols you can run on overnights.</li>
+          <li>Habit structure that fits your duty days instead of fighting them.</li>
+          <li>Clear, no-fluff instructions — you know exactly what to do each day.</li>
+        </ul>
+      </section>
+
+      <section class="section">
+        <div class="section-tag">for serious crew</div>
+        <div class="stack stack--split">
+          <div>
+            <h2>Ready for the full transformation?</h2>
+            <p>
+              The <strong>Black Box Code Coaching Program</strong> is built for pilots who want
+              more than a quick reset — they want a body and protocol that actually matches the
+              responsibility of their job.
+            </p>
+            <ul>
+              <li>A body that can handle long duty days without falling apart.</li>
+              <li>Fatigue-proof performance in the flight deck.</li>
+              <li>Hotel-gym training that’s designed for real-world overnights.</li>
+              <li>A simple, repeatable nutrition system for travel days.</li>
+              <li>Accountability built around aviation schedules — not 9–5 life.</li>
+            </ul>
+          </div>
+          <div>
+            <p class="muted">
+              If you’re ready to treat your health like your license depends on it:
+            </p>
+            <a href="#apply" class="cta-button">
+              Apply for Coaching
+              <span>✈️</span>
+            </a>
+          </div>
+        </div>
+      </section>
+
+      <section id="apply" class="section">
+        <div class="section-tag">support tools</div>
+        <h2>Hotel Gym Training Library (Free)</h2>
+        <p>
+          Get access to pilot-focused workouts you can run on any overnight — designed for the
+          equipment you’ll actually find on the road.
+        </p>
+        <p class="muted">
+          Perfect for 3-day trips, reserve life, and back-to-back legs where you still want to
+          move, not just survive.
+        </p>
+      </section>
+
+      <section class="section">
+        <div class="section-tag">10-minute clarity</div>
+        <h2>Schedule a Flight Deck Consultation</h2>
+        <p>
+          Talk directly with a coach for 10 minutes. No pressure. No pitch wall. Just an honest
+          look at where you are, where you want to go, and what it will take to get there.
+        </p>
+      </section>
+
+      <section class="section">
+        <div class="section-tag">about</div>
+        <h2>What Is The Black Box Code?</h2>
+        <p>
+          Your aircraft records every action. So does your body.
+        </p>
+        <p class="muted">
+          The Black Box Code is a performance protocol built for pilots who demand more from
+          themselves — in strength, discipline, and how they show up in the cockpit.
+        </p>
+
+        <div class="stack">
+          <div>
+            <span class="pill">
+              <span class="pill-dot"></span>
+              Strength built for long duty days
+            </span>
+            <span class="pill">
+              <span class="pill-dot"></span>
+              Fatigue-resistant performance
+            </span>
+            <span class="pill">
+              <span class="pill-dot"></span>
+              Protocols, not random workouts
+            </span>
+          </div>
+        </div>
+      </section>
+
+      <p class="footer-note">
+        Every choice is recorded. Start writing a better logbook for your body — one protocol at a time.
+      </p>
+    </section>
+  </main>
+</body>
+</html>
